@@ -1,0 +1,5 @@
+修改windows的hosts
+C:\Windows\System32\drivers\etc\Hosts
+linux下
+vi /etc/hosts
+ 
