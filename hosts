@@ -1,3 +1,4 @@
+#有时候网站无法访问，需要修改hosts,每次网上都需要搜索host的文件目录，为了避免这样重复搜索，建立这个page
 修改windows的hosts
 C:\Windows\System32\drivers\etc\Hosts
 linux下
